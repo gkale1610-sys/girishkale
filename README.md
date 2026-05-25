@@ -11,6 +11,8 @@ Aspiring Software Developer passionate about building scalable applications and 
 - JavaScript
 - React
 - MySQL
+- MongoDB
+- Node.js
 
 ## 🌱 Currently Learning
 - Data Structures & Algorithms
